@@ -1,6 +1,6 @@
 // src/components/LineChart.js or src/components/PieChart.js
 import React from 'react';
-import { Line, Pie } from 'react-chartjs-2';
+import { Line } from 'react-chartjs-2';
 import {
   Chart as ChartJS,
   Title,
