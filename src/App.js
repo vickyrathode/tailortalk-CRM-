@@ -79,7 +79,7 @@ const App = () => {
       <footer className="bg-gray-800 text-white text-center p-4 mt-auto">
         <p>&copy; 2024 CRM Dashboard. All rights reserved.</p>
         <p>
-          Designed by Vikki Rathod | <a href="#" className="underline">Privacy Policy</a> | <a href="#" className="underline">Terms of Service</a>
+          Designed by Vikki Rathod | <a href="/viikki" className="underline">Privacy Policy</a> | <a href="/vikki" className="underline">Terms of Service</a>
         </p>
       </footer>
     </div>
