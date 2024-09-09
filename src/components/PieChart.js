@@ -11,7 +11,7 @@ const PieChart = ({ data }) => {
       {
         label: 'Dataset',
         data: data.values,
-        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0'],
+        backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0','green','red'],
       },
     ],
   };
